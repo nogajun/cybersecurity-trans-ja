@@ -1,0 +1,2 @@
+Two-Factor Authentication	2段階認証
+2FA	二段階認証
